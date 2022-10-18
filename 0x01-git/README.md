@@ -1,1 +1,1 @@
-My readme is upto date
+My readme is up to date
